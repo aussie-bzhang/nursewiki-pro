@@ -46,7 +46,7 @@ are encoded in formal Prolog logic — not just prose guidelines.
 
 ## Knowledge Graph Preview
 
-![NurseWiki Pro Knowledge Graph](graph_preview.png)
+![NurseWiki Pro Knowledge Graph](graph_preview.PNG)
 
 > Each node is a clinical nursing page. Connected nodes share related
 > perioperative concepts. Built from 226 pages across 12 modules,
