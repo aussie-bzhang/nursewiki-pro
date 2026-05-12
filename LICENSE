@@ -1,0 +1,103 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+NurseWiki Pro -- Perioperative Nursing Knowledge Base
+Copyright (c) 2026 Bailing Zhang, NingboTech University
+All content pages, documentation, and wiki articles are licensed under
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+
+================================================================
+HUMAN-READABLE SUMMARY (not a substitute for the full license)
+================================================================
+
+You are FREE to:
+  Share  -- copy and redistribute the material in any medium or format
+  Adapt  -- remix, transform, and build upon the material
+
+Under the FOLLOWING TERMS:
+  Attribution      -- You must give appropriate credit to NurseWiki Pro
+                      and NingboTech University, provide a link to the
+                      license, and indicate if changes were made.
+
+  NonCommercial    -- You may NOT use the material for commercial purposes
+                      without a separate commercial license agreement.
+                      Commercial use includes but is not limited to:
+                      * Selling access to the content
+                      * Using the content in a paid product or service
+                      * Using the content to generate revenue
+                      For commercial licensing, contact: bailing@nbu.edu.cn
+
+  ShareAlike       -- If you remix, transform, or build upon the material,
+                      you must distribute your contributions under the
+                      same license (CC BY-NC-SA 4.0).
+
+No additional restrictions -- You may not apply legal terms or
+technological measures that legally restrict others from doing
+anything the license permits.
+
+================================================================
+PROPRIETARY COMPONENTS (NOT covered by CC BY-NC-SA 4.0)
+================================================================
+
+The following components are proprietary and ALL RIGHTS RESERVED:
+
+  1. Prolog Knowledge Base rules (prolog/rules/*.pl)
+     Formally verified clinical rules encoding ACORN 2023 standards.
+     These files are maintained in a separate private repository.
+
+  2. Verification pipeline scripts (verify/*.py)
+     4C verification framework implementation.
+
+  3. Commercial license management system
+
+These components may not be used, copied, modified, or distributed
+without a separate written license agreement from NingboTech University.
+
+================================================================
+CLINICAL DISCLAIMER
+================================================================
+
+NurseWiki Pro is a CLINICAL DECISION SUPPORT TOOL only.
+It is NOT a substitute for:
+  - Professional clinical judgement
+  - Institutional policies and procedures
+  - Direct clinical supervision
+  - Current AHPRA registration requirements
+
+All users must hold current registration with the Australian Health
+Practitioner Regulation Agency (AHPRA) or equivalent authority,
+and must comply with their employing facility's policies.
+
+The authors and NingboTech University accept no liability for
+clinical decisions made on the basis of content in this knowledge base.
+
+Always verify clinical information against current ACORN standards
+and your institution's approved guidelines.
+
+================================================================
+FULL LICENSE TEXT
+================================================================
+
+The full text of the Creative Commons Attribution-NonCommercial-
+ShareAlike 4.0 International License is available at:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+================================================================
+CITATION
+================================================================
+
+If you use NurseWiki Pro in research or education, please cite:
+
+  Zhang, B. (2026). NurseWiki Pro: A Formally Verified Perioperative
+  Nursing Knowledge Base. NingboTech University.
+  https://github.com/aussie-bzhang/nursewiki-pro
+
+================================================================
+CONTACT
+================================================================
+
+NingboTech University
+Institute of Data Science and Intelligent Technology
+School of Computer Science and Data Engineering
+
+Commercial licensing: bailing@nbu.edu.cn
+GitHub: https://github.com/aussie-bzhang

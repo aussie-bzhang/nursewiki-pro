@@ -1,0 +1,9 @@
+# Standard line endings
+* text=auto
+
+# Markdown — treat as text
+*.md text eol=lf
+
+# Note: Prolog rule files (.pl) are maintained in a separate
+# private repository (nursewiki-rules) with git-crypt encryption.
+# This public vault contains only the content layer.

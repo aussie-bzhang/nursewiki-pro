@@ -1,0 +1,15 @@
+# Obsidian workspace files (personal, not shared)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/obsidian-git/data.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large binary assets
+*.jpg
+*.png
+*.mp3
+*.mp4
