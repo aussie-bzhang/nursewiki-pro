@@ -1,103 +1,69 @@
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
 NurseWiki Pro -- Perioperative Nursing Knowledge Base
-Copyright (c) 2026 Bailing Zhang, NingboTech University
-All content pages, documentation, and wiki articles are licensed under
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+Copyright (c) 2026 Bailing Zhang (Zhang Bailing, 张百灵)
+All rights reserved.
 
 ================================================================
-HUMAN-READABLE SUMMARY (not a substitute for the full license)
+YOU ARE FREE TO:
 ================================================================
 
-You are FREE to:
   Share  -- copy and redistribute the material in any medium or format
   Adapt  -- remix, transform, and build upon the material
 
-Under the FOLLOWING TERMS:
-  Attribution      -- You must give appropriate credit to NurseWiki Pro
-                      and NingboTech University, provide a link to the
-                      license, and indicate if changes were made.
+UNDER THE FOLLOWING TERMS:
 
-  NonCommercial    -- You may NOT use the material for commercial purposes
-                      without a separate commercial license agreement.
-                      Commercial use includes but is not limited to:
-                      * Selling access to the content
-                      * Using the content in a paid product or service
-                      * Using the content to generate revenue
-                      For commercial licensing, contact: bailing@nbu.edu.cn
+  Attribution    -- You must credit Bailing Zhang (张百灵) and provide
+                    a link to the license. Indicate if changes were made.
 
-  ShareAlike       -- If you remix, transform, or build upon the material,
-                      you must distribute your contributions under the
-                      same license (CC BY-NC-SA 4.0).
+  NonCommercial  -- You may NOT use this material for commercial purposes
+                    without a separate written license agreement.
+                    Commercial use includes selling access, embedding in
+                    paid products, or revenue generation.
+                    Contact: bailing.zhang1961@gmail.com
 
-No additional restrictions -- You may not apply legal terms or
-technological measures that legally restrict others from doing
-anything the license permits.
+  ShareAlike     -- Derivatives must use the same CC BY-NC-SA 4.0 license.
 
 ================================================================
-PROPRIETARY COMPONENTS (NOT covered by CC BY-NC-SA 4.0)
+PROPRIETARY COMPONENTS (ALL RIGHTS RESERVED)
 ================================================================
 
-The following components are proprietary and ALL RIGHTS RESERVED:
+The following are NOT covered by CC BY-NC-SA 4.0:
 
-  1. Prolog Knowledge Base rules (prolog/rules/*.pl)
-     Formally verified clinical rules encoding ACORN 2023 standards.
-     These files are maintained in a separate private repository.
+  - Prolog knowledge base rules (*.pl, *.qlf)
+  - 4C verification pipeline scripts
+  - Commercial license management system
 
-  2. Verification pipeline scripts (verify/*.py)
-     4C verification framework implementation.
-
-  3. Commercial license management system
-
-These components may not be used, copied, modified, or distributed
-without a separate written license agreement from NingboTech University.
+These components are the exclusive intellectual property of
+Bailing Zhang (张百灵) and may not be used, copied, or distributed
+without written permission.
 
 ================================================================
 CLINICAL DISCLAIMER
 ================================================================
 
-NurseWiki Pro is a CLINICAL DECISION SUPPORT TOOL only.
-It is NOT a substitute for:
-  - Professional clinical judgement
-  - Institutional policies and procedures
-  - Direct clinical supervision
-  - Current AHPRA registration requirements
+NurseWiki Pro is a clinical decision support tool ONLY.
+It is not a substitute for professional clinical judgement,
+institutional policy, or direct supervision.
 
-All users must hold current registration with the Australian Health
-Practitioner Regulation Agency (AHPRA) or equivalent authority,
-and must comply with their employing facility's policies.
+Bailing Zhang (张百灵) accepts no liability for clinical decisions
+made on the basis of content in this knowledge base.
 
-The authors and NingboTech University accept no liability for
-clinical decisions made on the basis of content in this knowledge base.
-
-Always verify clinical information against current ACORN standards
-and your institution's approved guidelines.
-
-================================================================
-FULL LICENSE TEXT
-================================================================
-
-The full text of the Creative Commons Attribution-NonCommercial-
-ShareAlike 4.0 International License is available at:
-https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+Users must hold current AHPRA registration and comply with their
+facility's approved policies and procedures.
 
 ================================================================
 CITATION
 ================================================================
 
-If you use NurseWiki Pro in research or education, please cite:
-
-  Zhang, B. (2026). NurseWiki Pro: A Formally Verified Perioperative
-  Nursing Knowledge Base. NingboTech University.
+  Zhang, B. (张百灵) (2026). NurseWiki Pro: A Formally Verified
+  Perioperative Nursing Knowledge Base.
   https://github.com/aussie-bzhang/nursewiki-pro
 
 ================================================================
 CONTACT
 ================================================================
 
-NingboTech University
-Institute of Data Science and Intelligent Technology
-School of Computer Science and Data Engineering
-
-Commercial licensing: bailing@nbu.edu.cn
-GitHub: https://github.com/aussie-bzhang
+Bailing Zhang (张百灵)
+bailing.zhang1961@gmail.com
+https://github.com/aussie-bzhang
